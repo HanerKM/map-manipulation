@@ -1,6 +1,6 @@
 const walkRoute = [
-  [-71.094, 42.356],//Shwarma shack
-  [-71.069, 42.361],//MIT Superconducting Generator and High Voltage Lab... also bus stop
+  [-71.094697, 42.3592728],//Shwarma shack
+  [-71.0943562, 42.3599442],//MIT Superconducting Generator and High Voltage Lab... also bus stop
   [-71.099, 42.363], //Naco Tacos and the MIT Press Bookstore, also bus stop
   [-71.103, 42.365], //Supreme Liqors, Blick Art Materials, Dosas, and a bus stop
   [-71.106, 42.367], //YMCA, also bus stop
